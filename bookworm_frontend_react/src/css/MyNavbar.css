@@ -1,0 +1,31 @@
+.logout-button {
+    color: #f2f2f2; /* dark gray */
+    background-color: #555555; /* light gray */
+    border: none;
+    transition: background-color 0.3s ease;
+}
+
+.logout-button:hover {
+    color: #f2f2f2;
+    background-color: #333; /* slightly darker gray */
+}
+
+.logout-button:active {
+    background-color: #ccc; /* even darker gray */
+}
+
+.login-button-navbar {
+    color: #f2f2f2; /* dark gray */
+    background-color: #555555; /* light gray */
+    border: none;
+    transition: background-color 0.3s ease;
+}
+
+.login-button-navbar:hover {
+    color: #f2f2f2;
+    background-color: #1f1e1e; /* slightly darker gray */
+}
+
+.login-button-navbar:active {
+    background-color: #ccc; /* even darker gray */
+}

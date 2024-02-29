@@ -1,0 +1,18 @@
+body {
+    background-image: url("C:\Users\Aser\OneDrive\Desktop\Bookworm_v1.0.0\bookworm-app\public\images\CustomerRegistrationBackground.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.custom-form {
+    background-color: rgba(250, 225, 170, 0.95);
+    padding: 100px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}

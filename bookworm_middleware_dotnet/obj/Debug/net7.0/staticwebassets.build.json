@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Ytp/2I5B+lxjOcnN0mJ555ngR6QBPB4XMdz07ho93iQ=",
+  "Source": "Bookworm_cs",
+  "BasePath": "_content/Bookworm_cs",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

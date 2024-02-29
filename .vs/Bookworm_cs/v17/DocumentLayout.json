@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\91983\\Downloads\\Bookworm_cs_v3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E505815C-E32C-450E-8D99-1B9FD993F3EA}|Bookworm_cs\\Bookworm_cs.csproj|c:\\users\\91983\\downloads\\bookworm_cs_v3\\bookworm_cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E505815C-E32C-450E-8D99-1B9FD993F3EA}|Bookworm_cs\\Bookworm_cs.csproj|solutionrelative:bookworm_cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E505815C-E32C-450E-8D99-1B9FD993F3EA}|Bookworm_cs\\Bookworm_cs.csproj|c:\\users\\91983\\downloads\\bookworm_cs_v3\\bookworm_cs\\controllers\\elasticemailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E505815C-E32C-450E-8D99-1B9FD993F3EA}|Bookworm_cs\\Bookworm_cs.csproj|solutionrelative:bookworm_cs\\controllers\\elasticemailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E505815C-E32C-450E-8D99-1B9FD993F3EA}|Bookworm_cs\\Bookworm_cs.csproj|c:\\users\\91983\\downloads\\bookworm_cs_v3\\bookworm_cs\\controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E505815C-E32C-450E-8D99-1B9FD993F3EA}|Bookworm_cs\\Bookworm_cs.csproj|solutionrelative:bookworm_cs\\controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E505815C-E32C-450E-8D99-1B9FD993F3EA}|Bookworm_cs\\Bookworm_cs.csproj|c:\\users\\91983\\downloads\\bookworm_cs_v3\\bookworm_cs\\repositories\\sqlinvoicedetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E505815C-E32C-450E-8D99-1B9FD993F3EA}|Bookworm_cs\\Bookworm_cs.csproj|solutionrelative:bookworm_cs\\repositories\\sqlinvoicedetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E505815C-E32C-450E-8D99-1B9FD993F3EA}|Bookworm_cs\\Bookworm_cs.csproj|c:\\users\\91983\\downloads\\bookworm_cs_v3\\bookworm_cs\\repositories\\iinvoicedetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E505815C-E32C-450E-8D99-1B9FD993F3EA}|Bookworm_cs\\Bookworm_cs.csproj|solutionrelative:bookworm_cs\\repositories\\iinvoicedetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E505815C-E32C-450E-8D99-1B9FD993F3EA}|Bookworm_cs\\Bookworm_cs.csproj|c:\\users\\91983\\downloads\\bookworm_cs_v3\\bookworm_cs\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E505815C-E32C-450E-8D99-1B9FD993F3EA}|Bookworm_cs\\Bookworm_cs.csproj|solutionrelative:bookworm_cs\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E505815C-E32C-450E-8D99-1B9FD993F3EA}|Bookworm_cs\\Bookworm_cs.csproj|c:\\users\\91983\\downloads\\bookworm_cs_v3\\bookworm_cs\\repositories\\sqlproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E505815C-E32C-450E-8D99-1B9FD993F3EA}|Bookworm_cs\\Bookworm_cs.csproj|solutionrelative:bookworm_cs\\repositories\\sqlproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E505815C-E32C-450E-8D99-1B9FD993F3EA}|Bookworm_cs\\Bookworm_cs.csproj|c:\\users\\91983\\downloads\\bookworm_cs_v3\\bookworm_cs\\repositories\\sqllibraryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E505815C-E32C-450E-8D99-1B9FD993F3EA}|Bookworm_cs\\Bookworm_cs.csproj|solutionrelative:bookworm_cs\\repositories\\sqllibraryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E505815C-E32C-450E-8D99-1B9FD993F3EA}|Bookworm_cs\\Bookworm_cs.csproj|c:\\users\\91983\\downloads\\bookworm_cs_v3\\bookworm_cs\\repositories\\sqlshelfrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E505815C-E32C-450E-8D99-1B9FD993F3EA}|Bookworm_cs\\Bookworm_cs.csproj|solutionrelative:bookworm_cs\\repositories\\sqlshelfrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E505815C-E32C-450E-8D99-1B9FD993F3EA}|Bookworm_cs\\Bookworm_cs.csproj|c:\\users\\91983\\downloads\\bookworm_cs_v3\\bookworm_cs\\controllers\\myshelfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E505815C-E32C-450E-8D99-1B9FD993F3EA}|Bookworm_cs\\Bookworm_cs.csproj|solutionrelative:bookworm_cs\\controllers\\myshelfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E505815C-E32C-450E-8D99-1B9FD993F3EA}|Bookworm_cs\\Bookworm_cs.csproj|c:\\users\\91983\\downloads\\bookworm_cs_v3\\bookworm_cs\\models\\elasticemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E505815C-E32C-450E-8D99-1B9FD993F3EA}|Bookworm_cs\\Bookworm_cs.csproj|solutionrelative:bookworm_cs\\models\\elasticemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E505815C-E32C-450E-8D99-1B9FD993F3EA}|Bookworm_cs\\Bookworm_cs.csproj|c:\\users\\91983\\downloads\\bookworm_cs_v3\\bookworm_cs\\repositories\\elasticemailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E505815C-E32C-450E-8D99-1B9FD993F3EA}|Bookworm_cs\\Bookworm_cs.csproj|solutionrelative:bookworm_cs\\repositories\\elasticemailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E505815C-E32C-450E-8D99-1B9FD993F3EA}|Bookworm_cs\\Bookworm_cs.csproj|c:\\users\\91983\\downloads\\bookworm_cs_v3\\bookworm_cs\\pdf\\invoicepdfexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E505815C-E32C-450E-8D99-1B9FD993F3EA}|Bookworm_cs\\Bookworm_cs.csproj|solutionrelative:bookworm_cs\\pdf\\invoicepdfexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E505815C-E32C-450E-8D99-1B9FD993F3EA}|Bookworm_cs\\Bookworm_cs.csproj|c:\\users\\91983\\downloads\\bookworm_cs_v3\\bookworm_cs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E505815C-E32C-450E-8D99-1B9FD993F3EA}|Bookworm_cs\\Bookworm_cs.csproj|solutionrelative:bookworm_cs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IInvoiceDetailsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\91983\\Downloads\\Bookworm_cs_v3\\Bookworm_cs\\Repositories\\IInvoiceDetailsRepository.cs",
+              "RelativeDocumentMoniker": "Bookworm_cs\\Repositories\\IInvoiceDetailsRepository.cs",
+              "ToolTip": "C:\\Users\\91983\\Downloads\\Bookworm_cs_v3\\Bookworm_cs\\Repositories\\IInvoiceDetailsRepository.cs",
+              "RelativeToolTip": "Bookworm_cs\\Repositories\\IInvoiceDetailsRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAgwBIAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T14:46:08.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\91983\\Downloads\\Bookworm_cs_v3\\Bookworm_cs\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Bookworm_cs\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\91983\\Downloads\\Bookworm_cs_v3\\Bookworm_cs\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Bookworm_cs\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T14:37:12.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SqlLibraryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\91983\\Downloads\\Bookworm_cs_v3\\Bookworm_cs\\Repositories\\SqlLibraryRepository.cs",
+              "RelativeDocumentMoniker": "Bookworm_cs\\Repositories\\SqlLibraryRepository.cs",
+              "ToolTip": "C:\\Users\\91983\\Downloads\\Bookworm_cs_v3\\Bookworm_cs\\Repositories\\SqlLibraryRepository.cs",
+              "RelativeToolTip": "Bookworm_cs\\Repositories\\SqlLibraryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T14:34:17.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SqlShelfRepository.cs",
+              "DocumentMoniker": "C:\\Users\\91983\\Downloads\\Bookworm_cs_v3\\Bookworm_cs\\Repositories\\SqlShelfRepository.cs",
+              "RelativeDocumentMoniker": "Bookworm_cs\\Repositories\\SqlShelfRepository.cs",
+              "ToolTip": "C:\\Users\\91983\\Downloads\\Bookworm_cs_v3\\Bookworm_cs\\Repositories\\SqlShelfRepository.cs",
+              "RelativeToolTip": "Bookworm_cs\\Repositories\\SqlShelfRepository.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T14:33:52.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MyShelfController.cs",
+              "DocumentMoniker": "C:\\Users\\91983\\Downloads\\Bookworm_cs_v3\\Bookworm_cs\\Controllers\\MyShelfController.cs",
+              "RelativeDocumentMoniker": "Bookworm_cs\\Controllers\\MyShelfController.cs",
+              "ToolTip": "C:\\Users\\91983\\Downloads\\Bookworm_cs_v3\\Bookworm_cs\\Controllers\\MyShelfController.cs",
+              "RelativeToolTip": "Bookworm_cs\\Controllers\\MyShelfController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T14:33:29.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SqlProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\91983\\Downloads\\Bookworm_cs_v3\\Bookworm_cs\\Repositories\\SqlProductRepository.cs",
+              "RelativeDocumentMoniker": "Bookworm_cs\\Repositories\\SqlProductRepository.cs",
+              "ToolTip": "C:\\Users\\91983\\Downloads\\Bookworm_cs_v3\\Bookworm_cs\\Repositories\\SqlProductRepository.cs",
+              "RelativeToolTip": "Bookworm_cs\\Repositories\\SqlProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF4AAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T13:26:47.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SqlInvoiceDetailsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\91983\\Downloads\\Bookworm_cs_v3\\Bookworm_cs\\Repositories\\SqlInvoiceDetailsRepository.cs",
+              "RelativeDocumentMoniker": "Bookworm_cs\\Repositories\\SqlInvoiceDetailsRepository.cs",
+              "ToolTip": "C:\\Users\\91983\\Downloads\\Bookworm_cs_v3\\Bookworm_cs\\Repositories\\SqlInvoiceDetailsRepository.cs",
+              "RelativeToolTip": "Bookworm_cs\\Repositories\\SqlInvoiceDetailsRepository.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAuwEIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T13:26:08.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InvoiceController.cs",
+              "DocumentMoniker": "C:\\Users\\91983\\Downloads\\Bookworm_cs_v3\\Bookworm_cs\\Controllers\\InvoiceController.cs",
+              "RelativeDocumentMoniker": "Bookworm_cs\\Controllers\\InvoiceController.cs",
+              "ToolTip": "C:\\Users\\91983\\Downloads\\Bookworm_cs_v3\\Bookworm_cs\\Controllers\\InvoiceController.cs",
+              "RelativeToolTip": "Bookworm_cs\\Controllers\\InvoiceController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T13:00:43.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InvoicePDFExporter.cs",
+              "DocumentMoniker": "C:\\Users\\91983\\Downloads\\Bookworm_cs_v3\\Bookworm_cs\\PDF\\InvoicePDFExporter.cs",
+              "RelativeDocumentMoniker": "Bookworm_cs\\PDF\\InvoicePDFExporter.cs",
+              "ToolTip": "C:\\Users\\91983\\Downloads\\Bookworm_cs_v3\\Bookworm_cs\\PDF\\InvoicePDFExporter.cs",
+              "RelativeToolTip": "Bookworm_cs\\PDF\\InvoicePDFExporter.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAowCYAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T13:00:37.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\91983\\Downloads\\Bookworm_cs_v3\\Bookworm_cs\\Program.cs",
+              "RelativeDocumentMoniker": "Bookworm_cs\\Program.cs",
+              "ToolTip": "C:\\Users\\91983\\Downloads\\Bookworm_cs_v3\\Bookworm_cs\\Program.cs",
+              "RelativeToolTip": "Bookworm_cs\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAiwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T12:43:07.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ElasticEmailController.cs",
+              "DocumentMoniker": "C:\\Users\\91983\\Downloads\\Bookworm_cs_v3\\Bookworm_cs\\Controllers\\ElasticEmailController.cs",
+              "RelativeDocumentMoniker": "Bookworm_cs\\Controllers\\ElasticEmailController.cs",
+              "ToolTip": "C:\\Users\\91983\\Downloads\\Bookworm_cs_v3\\Bookworm_cs\\Controllers\\ElasticEmailController.cs",
+              "RelativeToolTip": "Bookworm_cs\\Controllers\\ElasticEmailController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T12:36:52.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ElasticEmail.cs",
+              "DocumentMoniker": "C:\\Users\\91983\\Downloads\\Bookworm_cs_v3\\Bookworm_cs\\Models\\ElasticEmail.cs",
+              "RelativeDocumentMoniker": "Bookworm_cs\\Models\\ElasticEmail.cs",
+              "ToolTip": "C:\\Users\\91983\\Downloads\\Bookworm_cs_v3\\Bookworm_cs\\Models\\ElasticEmail.cs",
+              "RelativeToolTip": "Bookworm_cs\\Models\\ElasticEmail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T12:30:48.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ElasticEmailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\91983\\Downloads\\Bookworm_cs_v3\\Bookworm_cs\\Repositories\\ElasticEmailRepository.cs",
+              "RelativeDocumentMoniker": "Bookworm_cs\\Repositories\\ElasticEmailRepository.cs",
+              "ToolTip": "C:\\Users\\91983\\Downloads\\Bookworm_cs_v3\\Bookworm_cs\\Repositories\\ElasticEmailRepository.cs",
+              "RelativeToolTip": "Bookworm_cs\\Repositories\\ElasticEmailRepository.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T12:27:16.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\91983\\Downloads\\Bookworm_cs_v3\\Bookworm_cs\\appsettings.json",
+              "RelativeDocumentMoniker": "Bookworm_cs\\appsettings.json",
+              "ToolTip": "C:\\Users\\91983\\Downloads\\Bookworm_cs_v3\\Bookworm_cs\\appsettings.json",
+              "RelativeToolTip": "Bookworm_cs\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-29T12:24:37.864Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

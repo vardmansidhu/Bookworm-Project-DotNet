@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&display=swap');
+
+.login.template {
+    background-color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.form_container {
+    width: 500px; /* Adjust this value to make the form wider or narrower */
+}
+
+.login.template {
+    background-color: #f2f2f2; /* light gray */
+}
+
+.form_container {
+    max-width: 600px;
+    background-color: white;
+    border-radius: 8px;
+    padding: 2rem;
+    box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.1); /* subtle shadow */
+}
+
+.form-label {
+    font-weight: 500;
+    color: #333; /* dark gray */
+}
+
+.form-control {
+    border: none;
+    border-bottom: 1px solid #ccc; /* light gray */
+    border-radius: 4px;
+    box-shadow: none;
+}
+
+.login-button {
+    background-color: #333; /* dark gray */
+    color: white;
+    border: none;
+    padding: 0.75rem 1.5rem;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+}
+
+.login-button:hover {
+    background-color: #444; /* slightly darker gray */
+}
+
+.login-button:active {
+    background-color: #222; /* even darker gray */
+}
+
+.text-decoration-none {
+    text-decoration: none;
+    color: #007bff; /* bootstrap primary color */
+}
+
+.text-decoration-none:hover {
+    color: #0056b3; /* darker blue */
+}

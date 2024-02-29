@@ -1,0 +1,73 @@
+.about-us {
+    text-align: center;
+  }
+  
+  #about-sec {
+    padding: 20px;
+  }
+  .team-members {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  p {
+    font-size: 1.2em; /* Increase the font size as needed */
+  }
+  ul {
+    list-style-type: disc; /* Use a bullet point for list items */
+    font-size: 1.1em; /* Increase the font size as needed */
+  }
+  
+  li {
+    font-size: 1.1em; /* Increase the font size as needed */
+  }
+
+  .team-member {
+    max-width: 300px;
+    margin: 20px;
+    background-color: #f8f8f8;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out;
+  
+    &:hover {
+      transform: scale(1.05);
+    }
+  }
+  
+  .team-member img {
+    max-width: 100%;
+    height:auto;
+    border-radius: 50%;
+    margin-bottom: 15px;
+  }
+  
+  .left-section {
+    width: 45%; /* Adjust the width as needed */
+    padding: 20px; /* Add padding for better spacing */
+  }
+
+  .team-member h3 {
+    margin-top: 10px;
+    font-size: 1.5em;
+    color: #333;
+  }
+  
+  .team-member p {
+    margin-top: 5px;
+    font-size: 1em;
+    color: #666;
+  }
+  
+  /* Additional styles */
+  .team-member-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .team-member-role {
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
